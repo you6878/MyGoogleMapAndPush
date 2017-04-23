@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "330839933133",
+    "firebase_url": "https://project--1291000769246438042.firebaseio.com",
+    "project_id": "project--1291000769246438042",
+    "storage_bucket": "project--1291000769246438042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330839933133:android:e09e78a6e1586f84",
+        "android_client_info": {
+          "package_name": "com.example.myeongsic.mygooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330839933133-0euq997veljrshtq4pq53jdnpvkq6d43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_wUbtnoEGk62wgT05cwVIhHtnKep8I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
